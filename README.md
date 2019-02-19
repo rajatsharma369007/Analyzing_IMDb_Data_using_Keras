@@ -12,7 +12,7 @@ I have loaded the dataset from scikit-learn's dataset package.
 <code>conda install numpy</code>
 * keras  
 <code>conda install keras</code>
-* matplotlib
+* matplotlib  
 <code>conda install matplotlib</code>
 
 ## Accuracy
